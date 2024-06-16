@@ -3,11 +3,12 @@
 **Montreal, QC H8R 2X7**  
 **Phone:** +1 438-779-3333  
 **Email:** [i.sumitkumar@outlook.com](mailto:i.sumitkumar@outlook.com)  
-**LinkedIn:** [linkedin.com/in/isumit-kumar](https://www.linkedin.com/in/isumit-kumar/)
+**LinkedIn:** [linkedin.com/in/isumit-kumar](https://www.linkedin.com/in/isumit-kumar/)  
+**Website:** [sumitkumar.info](http://sumitkumar.info/)
 
 ## Objective
 
-Seeking a dynamic opportunity as a Software Developer Intern at PACE Canada Aerospace & IT. Eager to contribute to the HMI & Embedded Graphics division's software tool development for avionics. Proficient in C++, C#, and web technologies (XML, HTML, REST API), with a keen interest in gaining hands-on experience in the software development lifecycle. Detail-oriented, responsive team player with strong analytical skills and fluent in English and French communication.
+Seeking a dynamic opportunity as a Software Developer. Proficient in C++, C#, and web technologies (XML, HTML, REST API), with a keen interest in gaining hands-on experience in the software development lifecycle. Detail-oriented, responsive team player with strong analytical skills and fluent in English and French communication.
 
 ## Technical Skills
 
@@ -40,7 +41,7 @@ Seeking a dynamic opportunity as a Software Developer Intern at PACE Canada Aero
 
 ## IT Certifications
 
-- Microsoft Certified Azure Fundamentals (AZ-900)
+- Microsoft Certified Azure Fundamentals (https://www.linkedin.com/posts/isumit-kumar_microsoftazure-cloudcomputing-certification-activity-7207348249312067584-CgFr?utm_source=share&utm_medium=member_desktop)
 
 ## Education
 
@@ -82,4 +83,4 @@ Seeking a dynamic opportunity as a Software Developer Intern at PACE Canada Aero
 
 ---
 
-*Note: This README file is a summary of my professional experience, technical skills, projects, and achievements. For more details, please visit my [LinkedIn profile](https://www.linkedin.com/in/isumit-kumar/).*
+*Note: This README file is a summary of my professional experience, technical skills, projects, and achievements. For more details, please visit my [LinkedIn profile](https://www.linkedin.com/in/isumit-kumar/) or my [website](http://sumitkumar.info/).*
