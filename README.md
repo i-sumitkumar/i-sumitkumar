@@ -8,7 +8,7 @@
 
 ## Objective
 
-Seeking a dynamic opportunity as a Software Developer. Proficient in C++, C#, and web technologies (XML, HTML, REST API), with a keen interest in gaining hands-on experience in the software development lifecycle. Detail-oriented, responsive team player with strong analytical skills and fluent in English and French communication.
+Seeking a dynamic opportunity as a Software Developer Intern at PACE Canada Aerospace & IT. Eager to contribute to the HMI & Embedded Graphics division's software tool development for avionics. Proficient in C++, C#, and web technologies (XML, HTML, REST API), with a keen interest in gaining hands-on experience in the software development lifecycle. Detail-oriented, responsive team player with strong analytical skills and fluent in English and French communication.
 
 ## Technical Skills
 
@@ -41,7 +41,7 @@ Seeking a dynamic opportunity as a Software Developer. Proficient in C++, C#, an
 
 ## IT Certifications
 
-- Microsoft Certified Azure Fundamentals (https://www.linkedin.com/posts/isumit-kumar_microsoftazure-cloudcomputing-certification-activity-7207348249312067584-CgFr?utm_source=share&utm_medium=member_desktop)
+- [Microsoft Certified Azure Fundamentals (AZ-900)](https://www.linkedin.com/feed/update/urn:li:activity:7207348249312067584/)
 
 ## Education
 
