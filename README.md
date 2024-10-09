@@ -8,7 +8,7 @@
 
 ## Objective
 
-Seeking a dynamic opportunity as a Software Developer Intern at PACE Canada Aerospace & IT. Eager to contribute to the HMI & Embedded Graphics division's software tool development for avionics. Proficient in C++, C#, and web technologies (XML, HTML, REST API), with a keen interest in gaining hands-on experience in the software development lifecycle. Detail-oriented, responsive team player with strong analytical skills and fluent in English and French communication.
+Seeking a dynamic opportunity as a Software Developer Intern. Proficient in C++, C#, and web technologies (XML, HTML, REST API), with a keen interest in gaining hands-on experience in the software development lifecycle. Detail-oriented, responsive team player with strong analytical skills and fluent in English and French communication.
 
 ## Technical Skills
 
